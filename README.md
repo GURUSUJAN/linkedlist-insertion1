@@ -17,8 +17,14 @@ Displayed final inserted element on its actual position which is given as input.
 Sample Input 0
 
 23 45 67 12 5
+
+
 2
+
+
 15
+
+
 Sample Output 0
 
 23 15 45 67 12 5
